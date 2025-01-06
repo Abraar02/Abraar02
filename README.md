@@ -9,7 +9,6 @@ I am a graduate student pursuing a Master of Science in Cybersecurity at Northea
 This space is a work in progress, where I plan to share projects, insights, and tools as I continue to explore and contribute to the field of cybersecurity. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -41,7 +40,6 @@ This space is a work in progress, where I plan to share projects, insights, and 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
