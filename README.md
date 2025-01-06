@@ -5,7 +5,6 @@
 I am a graduate student pursuing a Master of Science in Cybersecurity at Northeastern University, with a focus on areas like risk management, network security, and threat intelligence.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 This space is a work in progress, where I plan to share projects, insights, and tools as I continue to explore and contribute to the field of cybersecurity. 
 
