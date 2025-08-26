@@ -6,7 +6,7 @@ I am a graduate student pursuing a Master of Science in Cybersecurity at Northea
 - 👯 I’m looking to collaborate on anything related to Security, Let's talk!!
 - 🤔 I’m looking for help with Threat Intelligence
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mohammadabraar/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- 👀 <a href="https://tryhackme.com/p/bubu02"><img src="https://img.shields.io/badge/-TryHackMe-2DCB5D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+- 🫆 My go-to place to do something fun: <a href="https://tryhackme.com/p/bubu02"><img src="https://img.shields.io/badge/-TryHackMe-2DCB5D?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 ## Objective
 
 Check out my Portfolio for more info about my learnings and projects: https://abraar02.github.io/
